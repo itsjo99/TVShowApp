@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/TVShowApp/static/css/main.f3c0209d.css",
-    "main.js": "/TVShowApp/static/js/main.b3918318.js",
+    "main.css": "/TVShowApp/static/css/main.e289cb6d.css",
+    "main.js": "/TVShowApp/static/js/main.57aa625c.js",
     "static/media/logo.png": "/TVShowApp/static/media/logo.38ee68723542d7acaed6.png",
     "index.html": "/TVShowApp/index.html",
-    "main.f3c0209d.css.map": "/TVShowApp/static/css/main.f3c0209d.css.map",
-    "main.b3918318.js.map": "/TVShowApp/static/js/main.b3918318.js.map"
+    "main.e289cb6d.css.map": "/TVShowApp/static/css/main.e289cb6d.css.map",
+    "main.57aa625c.js.map": "/TVShowApp/static/js/main.57aa625c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c0209d.css",
-    "static/js/main.b3918318.js"
+    "static/css/main.e289cb6d.css",
+    "static/js/main.57aa625c.js"
   ]
 }

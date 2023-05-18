@@ -8,7 +8,7 @@ export const Trailer = ({ onLoad }) => {
       <iframe
         className={s.trailer}
         height={270}
-        width={480}
+        width={450}
         src={`${base_url_youtube}${onLoad.key}`}
       ></iframe>
     </div>
